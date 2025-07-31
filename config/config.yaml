@@ -49,8 +49,6 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
-  - id: "bilibili"
-    name: "哔哩哔哩"
   - id: "linuxdo"
     name: "linuxdo"
   - id: "wallstreetcn-hot"
